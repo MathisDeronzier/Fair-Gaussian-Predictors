@@ -6,6 +6,7 @@
 Gaussian process regression with MMD and Sinkhorn fairness penalties, built with PyTorch and GPyTorch. Explore the tradeoff between prediction accuracy and differences between sensitive-group prediction distributions.
 
 **Maintainer:** [Mathis Deronzier](https://github.com/MathisDeronzier)
+
 **Contributor:** [Elie Odin](https://github.com/elieodin)
 
 ## Features
