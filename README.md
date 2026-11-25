@@ -7,7 +7,7 @@ Gaussian process regression with MMD and Sinkhorn fairness penalties, built with
 
 **Maintainer:** [Mathis Deronzier](https://github.com/MathisDeronzier)
 
-**Contributor:** [Elie Odin](https://github.com/elieodin)
+**Contributor(s):** [Mathis Deronzier](https://github.com/MathisDeronzier), [Elie Odin](https://github.com/elieodin)
 
 ## Features
 
