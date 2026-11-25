@@ -1,0 +1,24 @@
+# Track the source, notebooks, and project documentation.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/CITATION.cff
+!/requirements.txt
+!/notebook/
+!/notebook/**
+!/Fair_GPs/
+!/Fair_GPs/**
+!/tests/
+!/tests/**
+!/Datas_Scripts/
+!/Datas_Scripts/**
+
+# Ignore generated Python and notebook caches.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded datasets and acquisition metadata stay local.
+/Datas_Scripts/data/*
+!/Datas_Scripts/data/README.md
